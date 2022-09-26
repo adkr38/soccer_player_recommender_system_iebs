@@ -1,1 +1,4 @@
-# soccer_player_recommender_system_iebs
+### IEBS Data Science & Big Data Global Project
+Soccer player recommender system based on similarity.
+Algorithms used: PCA, K-Means.
+Similarity measure: Average distance.
